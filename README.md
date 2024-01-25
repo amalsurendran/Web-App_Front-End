@@ -1,5 +1,8 @@
 # React + Vite
 
+A Web App create Mini Chating Application Using React + Vite , Node.js Express.js ,MongoDB and Redux.
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
